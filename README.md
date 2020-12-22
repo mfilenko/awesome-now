@@ -103,3 +103,4 @@ Awesome list of `now.sh` deployments.
 
 * [og-image.now.sh](https://og-image.now.sh) -> Open Graph Image as a Service
 
+* [octodashboard.now.sh](https://octodashboard.now.sh) -> A dashboard for visualizing GitHub profiles. With charts!
